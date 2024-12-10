@@ -1,0 +1,17 @@
+C:\Users\hogam\source\repos\r9\r9\bin\Debug\net9.0-windows\r9.exe
+C:\Users\hogam\source\repos\r9\r9\bin\Debug\net9.0-windows\r9.deps.json
+C:\Users\hogam\source\repos\r9\r9\bin\Debug\net9.0-windows\r9.runtimeconfig.json
+C:\Users\hogam\source\repos\r9\r9\bin\Debug\net9.0-windows\r9.dll
+C:\Users\hogam\source\repos\r9\r9\bin\Debug\net9.0-windows\r9.pdb
+C:\Users\hogam\source\repos\r9\r9\obj\Debug\net9.0-windows\r9.Form1.resources
+C:\Users\hogam\source\repos\r9\r9\obj\Debug\net9.0-windows\r9.csproj.GenerateResource.cache
+C:\Users\hogam\source\repos\r9\r9\obj\Debug\net9.0-windows\r9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hogam\source\repos\r9\r9\obj\Debug\net9.0-windows\r9.AssemblyInfoInputs.cache
+C:\Users\hogam\source\repos\r9\r9\obj\Debug\net9.0-windows\r9.AssemblyInfo.cs
+C:\Users\hogam\source\repos\r9\r9\obj\Debug\net9.0-windows\r9.csproj.CoreCompileInputs.cache
+C:\Users\hogam\source\repos\r9\r9\obj\Debug\net9.0-windows\r9.dll
+C:\Users\hogam\source\repos\r9\r9\obj\Debug\net9.0-windows\refint\r9.dll
+C:\Users\hogam\source\repos\r9\r9\obj\Debug\net9.0-windows\r9.pdb
+C:\Users\hogam\source\repos\r9\r9\obj\Debug\net9.0-windows\r9.genruntimeconfig.cache
+C:\Users\hogam\source\repos\r9\r9\obj\Debug\net9.0-windows\ref\r9.dll
+C:\Users\hogam\source\repos\r9\r9\obj\Debug\net9.0-windows\r9.Properties.Resources.resources
