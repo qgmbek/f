@@ -1,0 +1,18 @@
+[OPTIONS]
+Compatibility=1.1 or later
+Compiled file=npv.chm
+Contents file=npv.hhc
+Default Window=main
+Default topic=npv_01.htm
+Display compile progress=No
+Full-text search=Yes
+Language=0x409 English (United States)
+
+[WINDOWS]
+main="NPV Help","npv.hhc","npv.hhk","npv_01.htm","npv_01.htm",,,,,0x63520,222,0x3006,[60,30,800,600],,,,,,,0
+
+[FILES]
+C:\Users\hogam\source\repos\r13\npv_01.htm
+C:\Users\hogam\source\repos\r13\npv_02.htm
+C:\Users\hogam\source\repos\r13\npv_03.htm
+C:\Users\hogam\source\repos\r13\npv_04.htm
